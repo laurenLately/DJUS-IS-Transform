@@ -1,0 +1,3953 @@
+<record><uint n="CompatibilityOptions">131072</uint>
+<subrecord n="Configuration"><subrecord n="WebService"><bool n="Private">False</bool>
+<bool n="IsFolder">False</bool>
+<bool n="IsAsynchronous">True</bool>
+<bool n="NoInteractiveCaching">False</bool>
+<int n="Retries">0</int>
+</subrecord>
+</subrecord>
+<string n="HomeAddress">localproxy</string>
+<string n="ProcessGroup"></string>
+<string n="VirtualDirectory"></string>
+<uint n="LoggingOptions">31</uint>
+<string n="Revision">{31FE9346-984A-4DC2-847A-03C06D46E8FF}</string>
+<string n="AppLicense"></string>
+<list n="Destinations"><record><string n="v">Transformer\all_reports</string>
+</record>
+</list>
+<list n="History"><record><string n="v">covus, Transform Build 40831, 9/18/2017 9:01:11 AM</string>
+</record>
+<record><string n="v">covus, Transform Build 40831, 9/18/2017 8:59:36 AM</string>
+</record>
+<record><string n="v">covus, Transform Build 40831, 4/26/2017 9:08:25 AM</string>
+</record>
+<record><string n="v">covus, Build 36645, 09 Dec 2013 08:35:20</string>
+</record>
+<record><string n="v">covus, Build 36645, 05 Dec 2013 14:41:32</string>
+</record>
+<record><string n="v">covus, Build 36645, 05 Dec 2013 14:41:08</string>
+</record>
+<record><string n="v">covus, Build 36645, 21 Feb 2013 09:01:46</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 Oct 2010 13:44:39</string>
+</record>
+<record><string n="v">covus, Build 8504, 20 Oct 2010 14:56:33</string>
+</record>
+<record><string n="v">bclear, Build 5714, 16 Apr 2007 08:28:47</string>
+</record>
+<record><string n="v">bclear, Build 5714, 16 Apr 2007 08:27:07</string>
+</record>
+<record><string n="v">bclear, Build 5714, 16 Apr 2007 08:24:01</string>
+</record>
+<record><string n="v">bclear, Build 4880, 02 Apr 2007 08:51:25</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 11:05:35</string>
+</record>
+<record><string n="v">covus, Build 4880, 30 Mar 2007 10:55:24</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 10:12:37</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 09:44:55</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 09:44:03</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 09:39:16</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 09:36:23</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 09:32:30</string>
+</record>
+<record><string n="v">bclear, Build 4880, 30 Mar 2007 08:43:03</string>
+</record>
+<record><string n="v">bclear, Build 4880, 29 Mar 2007 13:41:23</string>
+</record>
+<record><string n="v">bclear, Build 4880, 29 Mar 2007 13:40:37</string>
+</record>
+<record><string n="v">bclear, Build 4880, 29 Mar 2007 09:14:59</string>
+</record>
+<record><string n="v">bclear, Build 4880, 29 Mar 2007 09:14:27</string>
+</record>
+<record><string n="v">bclear, Build 4880, 29 Mar 2007 08:40:01</string>
+</record>
+<record><string n="v">bclear, Build 4880, 01 Nov 2006 10:16:36</string>
+</record>
+<record><string n="v">bclear, Build 4880, 01 Nov 2006 09:09:55</string>
+</record>
+<record><string n="v">bclear, Build 4880, 23 Oct 2006 13:25:53</string>
+</record>
+<record><string n="v">bclear, Build 4880, 23 Aug 2006 10:11:17</string>
+</record>
+<record><string n="v">bclear, Build 4880, 22 Aug 2006 09:33:18</string>
+</record>
+<record><string n="v">bclear, Build 3688, 30 Sep 2005 09:02:00</string>
+</record>
+<record><string n="v">bclear, Build 3688, 26 Sep 2005 09:23:38</string>
+</record>
+<record><string n="v">bclear, Build 3311, 14 Sep 2005 09:27:27</string>
+</record>
+<record><string n="v">bclear, Build 3311, 14 Sep 2005 09:23:44</string>
+</record>
+<record><string n="v">bclear, Build 3311, 06 Sep 2005 08:54:32</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Sep 2005 17:10:10</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Aug 2005 17:21:41</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Aug 2005 16:59:30</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Aug 2005 15:57:16</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Aug 2005 15:30:36</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Aug 2005 15:28:25</string>
+</record>
+<record><string n="v">bclear, Build 3311, 15 Jun 2005 12:37:32</string>
+</record>
+<record><string n="v">bclear, Build 3311, 12 May 2005 10:28:32</string>
+</record>
+<record><string n="v">bclear, Build 3311, 12 May 2005 10:00:11</string>
+</record>
+<record><string n="v">bclear, Build 3311, 10 May 2005 15:50:06</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Apr 2005 15:33:37</string>
+</record>
+<record><string n="v">bclear, Build 3311, 26 Apr 2005 13:38:21</string>
+</record>
+<record><string n="v">bclear, Build 3311, 25 Apr 2005 16:34:50</string>
+</record>
+<record><string n="v">bkirk, Build 3264, 12 Apr 2005 13:40:49</string>
+</record>
+<record><string n="v">bkirk, Build 3264, 11 Apr 2005 18:24:22</string>
+</record>
+<record><string n="v">bclear, Build 3264, 08 Apr 2005 12:00:30</string>
+</record>
+<record><string n="v">bclear, Build 3264, 08 Apr 2005 11:39:37</string>
+</record>
+<record><string n="v">bclear, Build 3264, 08 Apr 2005 11:04:48</string>
+</record>
+<record><string n="v">bkirk, Build 3165, 06 Jan 2005 11:02:08</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 15 Jul 2004 08:39:05</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 15 Jul 2004 08:27:29</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 15:53:31</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 15:49:58</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 15:49:39</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 15:47:46</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 15:46:28</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 11:18:42</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 11:18:32</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 10:57:51</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 14 Jul 2004 09:05:55</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 15:58:42</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 15:40:59</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 15:27:14</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 11:19:58</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 11:19:45</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 11:06:47</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 10:49:00</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 10:39:29</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 10:37:47</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 10:37:17</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 10 Jun 2004 08:46:26</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 09 Jun 2004 16:01:18</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 09 Jun 2004 15:40:26</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 09 Jun 2004 15:35:05</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 08 Jun 2004 16:27:37</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 08 Jun 2004 15:06:59</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 08 Jun 2004 14:28:14</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 08 Jun 2004 14:28:00</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 08 Jun 2004 13:55:27</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 May 2004 14:44:00</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 May 2004 14:15:59</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 May 2004 11:10:06</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 May 2004 09:57:37</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 May 2004 09:57:22</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 19 May 2004 16:37:36</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 19 May 2004 14:51:47</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 19 May 2004 14:50:25</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 19 May 2004 14:41:40</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 19 May 2004 11:17:47</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 19 May 2004 10:11:01</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 18 May 2004 16:11:42</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 07 May 2004 10:33:58</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 06 May 2004 16:39:50</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 06 May 2004 16:27:09</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 06 May 2004 15:18:21</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 06 May 2004 11:29:36</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 06 May 2004 10:41:46</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 05 May 2004 16:50:16</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 13:31:00</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 13:25:48</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 13:21:50</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 10:59:23</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 10:38:58</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 07:35:56</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 29 Apr 2004 07:21:14</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 28 Apr 2004 16:36:16</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 28 Apr 2004 16:27:31</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 28 Apr 2004 15:41:31</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 28 Apr 2004 15:32:34</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 28 Apr 2004 14:47:35</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 Apr 2004 13:28:03</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 Apr 2004 12:25:23</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 26 Apr 2004 12:13:32</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 15:59:24</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 15:34:50</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 14:51:32</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 14:42:33</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 14:41:28</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 14:41:06</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 13:27:53</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 11:34:10</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 10:46:51</string>
+</record>
+<record><string n="v">Administrator, Build 3165, 22 Apr 2004 10:21:45</string>
+</record>
+</list>
+<uint n="ObjectCount">202</uint>
+<subrecord n="Tree"><string n="Name">OTW</string>
+<string n="Comment">Dorel Juvenile    Canadian Invoice         Build: 0001-071504<cr/>
+<lf/>
+JanetC<cr/>
+<lf/>
+<cr/>
+<lf/>
+Data Type/Platform: JDE ERP8 on AS/400<cr/>
+<lf/>
+FormScape:  Covus<cr/>
+<lf/>
+</string>
+<list n="Objects"><record><string n="Name">Customs</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Definition</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Definition</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Action List</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Production Mode - Copy Database to P Drive</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">When Triggered</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Shell1</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Output</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">VGhlIG5ldHdvcmsgcGF0aCB3YXMgbm90IGZvdW5kLg0K</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Command</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Piece2</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">T1RXX1ZhcmlhbmNlLm1kYiA=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">SavePath</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">SavePath</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Piece1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">Y29weSBcXGNvbC10cmFuczUxXGNvdnVzYm9pbGVycGxhdGVcT1RXX1ZhcmlhbmNl
+Lm1kYiA=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{0D2A41DA-DFF2-4BA8-A223-F6F6366BD3FC}</string>
+<subrecord n="Settings"><string n="_Command">Command</string>
+<string n="_Output">Output</string>
+</subrecord>
+<string n="Type">Shell</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Delete if Exists on P Drive</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">No</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Yes</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Output</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">XFxhdGxhc1xwdWJsaWNcYWNjb3VudGluZ1xjb3N0dmFyaWFuY2VcT1RXX1Zhcmlh
+bmNlLm1kYg0K</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Command</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Piece2</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">T1RXX1ZhcmlhbmNlLm1kYiA=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">SavePath</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">SavePath</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Piece1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">ZGVsIA==</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{0D2A41DA-DFF2-4BA8-A223-F6F6366BD3FC}</string>
+<subrecord n="Settings"><string n="_Command">Command</string>
+<string n="_Output">Output</string>
+</subrecord>
+<string n="Type">Shell</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Test</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{B24639B0-3D25-11D4-87B0-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="To">\Customs\Definition\Definition\Action List\Production Mode - Copy Database to P Drive\When Triggered\Check File\File exists</string>
+</subrecord>
+<string n="Type">Link</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_If">Test</string>
+<string n="_Then">Yes</string>
+<string n="_Else">No</string>
+</subrecord>
+<string n="Type">If</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Check File</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Date file last modified</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Date file created</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">File size</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8B6D840-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{658C383F-6B0A-42D1-B0E8-4D9693F37B62}</string>
+<subrecord n="Settings"><double n="Value">0</double>
+<subrecord n="DecimalValue"><int n="Low">0</int>
+<int n="Medium">0</int>
+<int n="High">0</int>
+<int n="Scale">0</int>
+</subrecord>
+</subrecord>
+<string n="Type">Number</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">File exists</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2D97D8A0-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">File path</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Piece2</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">T1RXX1ZhcmlhbmNlLm1kYiA=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">SavePath</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">SavePath</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Path">File path</string>
+<string n="_Exists">File exists</string>
+<string n="_Size">File size</string>
+<string n="_Created">Date file created</string>
+<string n="_Modified">Date file last modified</string>
+<uint n="TimeOut">5</uint>
+<uint n="Sample">1</uint>
+<double n="Interval">5000</double>
+<int n="DateFormat">1</int>
+<int n="DateLocale">0</int>
+<string n="UserFormatString">ddd d/MM/yyy</string>
+</subrecord>
+<string n="Type">Check File</string>
+<string n="Package">Files</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Trigger Tree</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Link to CopyDBtoPDrive</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{B24639B0-3D25-11D4-87B0-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="To">\Customs\Customer Memory Items\CopyDBtoPDrive</string>
+</subrecord>
+<string n="Type">Link</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Test1</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Test Mode</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Input</string>
+</subrecord>
+<string n="Type">Not</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="AllOf">True</bool>
+</subrecord>
+<string n="Type">All Of</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_If">Trigger Tree</string>
+<string n="_Then">When Triggered</string>
+</subrecord>
+<string n="Type">Decision</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Empty Container</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Container</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9D091C8D-3ADE-46EE-9514-DF0F7246A067}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">InputData</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition</string>
+<string n="Scope">Definition</string>
+<uint n="Count">1</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{FB2B8128-E88D-11D3-8703-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Cont">Container</string>
+</subrecord>
+<string n="Type">Empty Container</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Use Connection</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Do</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Action</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">When Triggered</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">When Triggered</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">NumberofLines</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">NLIN</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX8Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X8L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX9Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X9L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX5Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X5L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX4Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X4L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX7Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X7L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX6Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X6L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX3Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X3L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX9Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X9B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX8Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X8B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX7Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X7B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX6Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X6B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX5Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X5B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX4Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X4B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX3Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X3B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">ToLocation</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">ToLoc</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">Quantity</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Qty</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">PONumber</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Order</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">OrderType</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">OrderType</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LineNumber</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Line</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX2Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X2L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedX1Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X1L</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">LandedUnitPrice</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">LandedPrice</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">Item</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Item</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">DateLanded</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Date</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">Company</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Company</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BranchPlant</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">MCU</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX2Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X2B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedX1Cost</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">X1B</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">BookedUnitPrice</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Number</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">BookedPrice</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Text</string>
+<uint n="Locale">1033</uint>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Number From Text</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Number</string>
+<int n="Digits">2</int>
+<bool n="Padding">False</bool>
+<int n="PadColumns">6</int>
+<string n="PadChar">0</string>
+<bool n="AutoDigits">True</bool>
+<ushort n="Setting">0</ushort>
+<string n="DecimalChar">.</string>
+<string n="GroupChar">,</string>
+<bool n="Group">False</bool>
+<int n="GroupCount">3</int>
+<uint n="Locale">1033</uint>
+<ushort n="Format">4</ushort>
+<int n="NegFormatInt">1</int>
+</subrecord>
+<string n="Type">Text From Number</string>
+<string n="Package">Converters</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CBD87A53-C78E-11D4-9C94-00105A3BD05C}</string>
+<subrecord n="Settings"><string n="_Text">Input</string>
+<int n="CodePage">0</int>
+</subrecord>
+<string n="Type">Unicode From Text</string>
+<string n="Package">Converters</string>
+</record>
+<record><string n="Name">TableName</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value">TwBUAFcAVgBhAHIAaQBhAG4AYwBlAA==</bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CF192184-1728-4B60-8ED9-26100F8CFE80}</string>
+<subrecord n="Settings"><string n="_TableName">TableName</string>
+</subrecord>
+<string n="Type">Insert</string>
+<string n="Package">Data Access</string>
+</record>
+<record><string n="Name">Trigger Tree</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Input</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Second</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Date</string>
+</record>
+<record><string n="v">Value</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_First">First</string>
+<string n="_Second">Second</string>
+<bool n="MatchCase">False</bool>
+<bool n="Search">True</bool>
+</subrecord>
+<string n="Type">Text Match</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Input">Input</string>
+</subrecord>
+<string n="Type">Not</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_If">Trigger Tree</string>
+<string n="_Then">When Triggered</string>
+</subrecord>
+<string n="Type">Decision</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Trigger Tree</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Second</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">TGluZXM=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Name</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition\Definition\Action List\Use Connection\Do</string>
+<string n="Scope">Do</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_First">First</string>
+<string n="_Second">Second</string>
+<bool n="MatchCase">False</bool>
+<bool n="Search">True</bool>
+</subrecord>
+<string n="Type">Text Match</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_If">Trigger Tree</string>
+<string n="_Then">When Triggered</string>
+</subrecord>
+<string n="Type">Decision</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Data</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Container</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8736EF0-A5C9-11D3-868A-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">FS_BODY</string>
+</record>
+<record><string n="v">FS_DOCUMENT</string>
+</record>
+<record><string n="v">FS_PACKET</string>
+</record>
+<record><string n="v">FS_DOCUMENTS</string>
+</record>
+<record><string n="v">JDEOW</string>
+</record>
+<record><string n="v">InputData</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition</string>
+<string n="Scope">Definition</string>
+<uint n="Count">1</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{BAD40600-CBA9-11D3-86C2-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Container">Container</string>
+</subrecord>
+<string n="Type">Walker</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Action">Action</string>
+<string n="_Iterator">Data</string>
+</subrecord>
+<string n="Type">Scan</string>
+<string n="Package">Loops</string>
+</record>
+<record><string n="Name">Connection</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Connection String</string>
+<string n="Comment">Variable based on Test Mode or Not</string>
+<list n="Objects"><record><string n="Name">Piece3</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value">TwBUAFcAXwBWAGEAcgBpAGEAbgBjAGUALgBtAGQAYgA7AEQAcgBpAHYAZQByAEkA
+ZAA9ADIANQA7AEYASQBMAD0ATQBTACAAQQBjAGMAZQBzAHMAOwBNAGEAeABCAHUA
+ZgBmAGUAcgBTAGkAegBlAD0AMgAwADQAOAA7AFAAYQBnAGUAVABpAG0AZQBvAHUA
+dAA9ADUAOwA=</bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Piece2</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">No</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Yes</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value">VABFAFMAVABfAA==</bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Test</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Test Mode</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_If">Test</string>
+<string n="_Then">Yes</string>
+<string n="_Else">No</string>
+</subrecord>
+<string n="Type">If</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Piece1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value">RABTAE4APQBPAFQAVwA7AEQAQgBRAD0AXABcAGMAbwBsAC0AdAByAGEAbgBzADUA
+MQBcAGMAbwB2AHUAcwBiAG8AaQBsAGUAcgBwAGwAYQB0AGUAXAA=</bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Unicode Sentence</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2575667A-4E4E-4287-BC8A-E5D739AD86E3}</string>
+<string n="Class">{F232A988-1718-40ED-A712-058DD199D11A}</string>
+<subrecord n="Settings"><bool n="ReturnNULLsAsEmpty">False</bool>
+<string n="_ConnectionString">Connection String</string>
+<bool n="UseClientCursors">False</bool>
+</subrecord>
+<string n="Type">Windows Data Access Connection</string>
+<string n="Package">Data Access</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{1CF09F3F-8EB2-4B04-8E4E-FA7A5D91B9B5}</string>
+<subrecord n="Settings"><string n="_Connection">Connection</string>
+<string n="_Action">Do</string>
+<bool n="KeepOpen">False</bool>
+</subrecord>
+<string n="Type">Use Connection</string>
+<string n="Package">Data Access</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Check Environment</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">No</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">TestMode - YES</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">To</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2D97D8A0-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Test Mode</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">From</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">True</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_From">From</string>
+<string n="_To">To</string>
+</subrecord>
+<string n="Type">Copy Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Yes</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">TestMode - NO</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">To</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2D97D8A0-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Test Mode</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs</string>
+<string n="Scope">Customs</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">From</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_From">From</string>
+<string n="_To">To</string>
+</subrecord>
+<string n="Type">Copy Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Test</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Version is Scheduled Version</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Second</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">REpHODAwMQ==</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">REPORT_VERSION</string>
+</record>
+<record><string n="v">FS_SETUP</string>
+</record>
+<record><string n="v">FS_DOCUMENT</string>
+</record>
+<record><string n="v">FS_PACKET</string>
+</record>
+<record><string n="v">FS_DOCUMENTS</string>
+</record>
+<record><string n="v">JDEOW</string>
+</record>
+<record><string n="v">InputData</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition</string>
+<string n="Scope">Definition</string>
+<uint n="Count">1</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_First">First</string>
+<string n="_Second">Second</string>
+<bool n="MatchCase">False</bool>
+<bool n="Search">True</bool>
+</subrecord>
+<string n="Type">Text Match</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Environment is Production</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Second</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">UEQ=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">REPORT_OWEnvironment</string>
+</record>
+<record><string n="v">FS_SETUP</string>
+</record>
+<record><string n="v">FS_DOCUMENT</string>
+</record>
+<record><string n="v">FS_PACKET</string>
+</record>
+<record><string n="v">FS_DOCUMENTS</string>
+</record>
+<record><string n="v">JDEOW</string>
+</record>
+<record><string n="v">InputData</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition</string>
+<string n="Scope">Definition</string>
+<uint n="Count">1</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_First">First</string>
+<string n="_Second">Second</string>
+<bool n="MatchCase">False</bool>
+<bool n="Search">True</bool>
+</subrecord>
+<string n="Type">Text Match</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="AllOf">True</bool>
+</subrecord>
+<string n="Type">All Of</string>
+<string n="Package">Testing</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_If">Test</string>
+<string n="_Then">Yes</string>
+<string n="_Else">No</string>
+</subrecord>
+<string n="Type">If</string>
+<string n="Package">Testing</string>
+</record>
+<record><string n="Name">Copy Text</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">To</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">JDEContainer</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9D091C8D-3ADE-46EE-9514-DF0F7246A067}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">InputData</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition</string>
+<string n="Scope">Definition</string>
+<uint n="Count">1</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint n="Path">0</uint>
+</subrecord>
+<string n="Type">Branch Shortcut</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">From</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="Name">JDE [in]</string>
+</subrecord>
+<string n="Type">Parameter</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_From">From</string>
+<string n="_To">To</string>
+</subrecord>
+<string n="Type">Copy Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Local Memory Items</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">FileCounter</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{658C383F-6B0A-42D1-B0E8-4D9693F37B62}</string>
+<subrecord n="Settings"><double n="Value">2</double>
+<subrecord n="DecimalValue"><int n="Low">2</int>
+<int n="Medium">0</int>
+<int n="High">0</int>
+<int n="Scale">0</int>
+</subrecord>
+</subrecord>
+<string n="Type">Number</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">InputData</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{32D47F05-1B57-11D4-8753-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint64 n="MaxUnitSize">10485760</uint64>
+<uint64 n="StartUnitSize">102400</uint64>
+<uint n="OverflowAct">0</uint>
+<bool n="UseMaxSize">False</bool>
+<uint64 n="MaxSize">1677721600</uint64>
+<list n="WildPathList"></list>
+<bin64 n="Data2">AAYAAABKAEQARQBPAFcAAAAADQAAAEYAUwBfAEQATwBDAFUATQBFAE4AVABTAAAA
+AAoAAABGAFMAXwBQAEEAQwBLAEUAVAAAAAAMAAAARgBTAF8ARABPAEMAVQBNAEUA
+TgBUAAAAAAkAAABGAFMAXwBTAEUAVABVAFAAAAABCQAAAFAAQQBDAEsAXwBSAEUA
+RgAAAAgAAAAwMi8yMS8xMwEIAAAARABPAEMAXwBSAEUARgAAAAAAAAABDAAAAFIA
+RQBQAE8AUgBUAF8ATgBBAE0ARQAAAAoAAABSNTcyMTU3T1RXAQ8AAABSAEUAUABP
+AFIAVABfAFYARQBSAFMASQBPAE4AAAAHAAAAREpHODAwMQENAAAAUgBFAFAATwBS
+AFQAXwBUAEkAVABMAEUAAAAnAAAAT1RXIHRvIFNUSyBDb3N0IFZhcmlhbmNlIFJl
+cG9ydCAgLUVYQ0VMAQ4AAABSAEUAUABPAFIAVABfAFAAUgBJAE4AVABRAAAABwAA
+AFFHUEwvUDQBDgAAAFIARQBQAE8AUgBUAF8AQQB1AHQAaABvAHIAAAAFAAAAU0NI
+RUQBFQAAAFIARQBQAE8AUgBUAF8ATwBXAEUAbgB2AGkAcgBvAG4AbQBlAG4AdAAA
+AAUAAABQRDkwMAEPAAAAUgBFAFAATwBSAFQAXwBNAGEAYwBoAGkAbgBlAAAABgAA
+AEUxUFJPRAEPAAAAUgBFAFAATwBSAFQAXwBDAHIAZQBhAHQAbwByAAAAFAAAAERv
+cmVsIEp1dmVuaWxlIEdyb3VwAQ8AAABSAEUAUABPAFIAVABfAFMAdQBiAGoAZQBj
+AHQAAAAnAAAAT1RXIHRvIFNUSyBDb3N0IFZhcmlhbmNlIFJlcG9ydCAgLUVYQ0VM
+AQwAAABGAFMAXwBPAFUAVABRAE4AQQBNAEUAAAACAAAAUDQBDAAAAEYAUwBfAEoA
+TwBCAFEATgBBAE0ARQAAAAYAAABFMVBST0QBCwAAAEYAUwBfAEoATwBCAE4AQQBN
+AEUAAAAdAAAAUjU3MjE1N09UV19ESkc4MDBfODEwMjE1MF9QREb/AA0AAABGAFMA
+XwBDAE8ATgBTAFQAQQBOAFQAUwAAAP8ADQAAAEYAUwBfAFYAQQBSAEkAQQBCAEwA
+RQBTAAAA/wAIAAAARgBTAF8AQgBPAEQAWQAAAAAKAAAARgBTAF8ASABFAEEARABF
+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
+ZAAAAAUAAABGQUxTRf///w==</bin64>
+</subrecord>
+<string n="Type">Bag</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Queue Process</string>
+<string n="Comment">Used For Development Purposes Only To Bring In Data File</string>
+<list n="Objects"><record><string n="Name">For Each Job</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Null</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Job Parser</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">JDEContainer</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9D091C8D-3ADE-46EE-9514-DF0F7246A067}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">InputData</string>
+</record>
+</list>
+<string n="ScopeTarget">\Customs\Definition</string>
+<string n="Scope">Definition</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint n="Path">0</uint>
+</subrecord>
+<string n="Type">Branch Shortcut</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Input Queue</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{F0EF2AA0-3BD2-11D4-87AE-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Null</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Queue">Input Queue</string>
+<string n="_Language">Job Parser</string>
+<string n="_OnJob">For Each Job</string>
+<bool n="DeleteAll">True</bool>
+<bool n="DeleteQP">False</bool>
+<bool n="DeleteInput">False</bool>
+</subrecord>
+<string n="Type">Queue Process</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8736EF0-A5C9-11D3-868A-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Items">Local Memory Items</string>
+<string n="_Definition">Definition</string>
+<bool n="HideItems">False</bool>
+</subrecord>
+<string n="Type">Memory</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Customer Memory Items</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">CopyDBtoPDrive</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">True</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">BackupPath</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">XFxjb2wtY292dXM1MVxlJFw=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">SavePath</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">XFxhdGxhc1xwdWJsaWNcYWNjb3VudGluZ1xjb3N0dmFyaWFuY2Vc</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Test Mode</string>
+<string n="Comment">Yes - prints &quot;SAMPLE&quot; across the detail area of the form.  This option is<cr/>
+<lf/>
+very useful during the testing stage.  However, be sure to set this option<cr/>
+<lf/>
+to No as you go into production.</string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8736EF0-A5C9-11D3-868A-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Items">Customer Memory Items</string>
+<string n="_Definition">Definition</string>
+<bool n="HideItems">False</bool>
+</subrecord>
+<string n="Type">Memory</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</subrecord>
+<list n="Inputs"><record><string n="Name">JDE [in]</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<list n="BranchConfig"></list>
+<list n="RepositoryConfig"></list>
+<list n="Branches"><record><string n="v">Transformer\all_reports</string>
+</record>
+</list>
+<list n="Supports"><record><string n="v">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+</record>
+</list>
+</record>

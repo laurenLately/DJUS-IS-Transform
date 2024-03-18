@@ -1,0 +1,945 @@
+<record><uint n="CompatibilityOptions">1023</uint>
+<string n="UnwantedConversions"></string>
+<subrecord n="Configuration"><subrecord n="WebService"><bool n="IsFolder">False</bool>
+<bool n="IsAsynchronous">False</bool>
+<bool n="Private">False</bool>
+<bool n="NoInteractiveCaching">False</bool>
+<int n="Retries">0</int>
+</subrecord>
+</subrecord>
+<string n="HomeAddress"></string>
+<string n="ProcessGroup"></string>
+<string n="VirtualDirectory"></string>
+<uint n="LoggingOptions">31</uint>
+<string n="Revision">{6D5F0D9F-AC76-4131-BAB5-60524E587760}</string>
+<string n="AppLicense"></string>
+<list n="Destinations"><record><string n="v">System\SharedResources</string>
+</record>
+<record><string n="v">Modules\GetCatapultEmail</string>
+</record>
+<record><string n="v">SalesRpts\FTPLogInspector</string>
+</record>
+</list>
+<list n="History"><record><string n="v">covus, Transform Build 42677, 2/1/2018 3:38:15 PM</string>
+</record>
+<record><string n="v">covus, Transform Build 42677, 2/1/2018 3:31:42 PM</string>
+</record>
+<record><string n="v">covus, Transform Build 40831, 11/14/2016 4:46:04 PM</string>
+</record>
+<record><string n="v">covus, Build 36645, 19 Nov 2012 08:58:51</string>
+</record>
+<record><string n="v">covus, Build 36645, 29 Oct 2012 14:19:23</string>
+</record>
+<record><string n="v">covus, Build 36645, 29 Oct 2012 14:19:03</string>
+</record>
+<record><string n="v">covus, Build 36645, 29 Oct 2012 14:18:07</string>
+</record>
+<record><string n="v">covus, Build 36645, 29 Oct 2012 13:57:55</string>
+</record>
+<record><string n="v">covus, Build 36645, 29 Oct 2012 13:49:16</string>
+</record>
+<record><string n="v">covus, Build 36641, 18 Oct 2012 08:21:14</string>
+</record>
+<record><string n="v">covus, Build 36641, 12 Oct 2012 14:42:15</string>
+</record>
+<record><string n="v">covus, Build 36641, 12 Oct 2012 09:17:14</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 16:31:42</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 14:26:41</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 14:15:17</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 13:20:28</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 13:19:58</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 13:18:02</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 13:15:24</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 12:05:40</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 08:09:45</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 08:08:00</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 08:02:54</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 07:58:32</string>
+</record>
+<record><string n="v">covus, Build 36641, 04 Oct 2012 07:50:20</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:37:52</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:35:04</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:34:42</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:33:10</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:28:45</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:27:08</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:23:37</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 19:20:05</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 18:11:40</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 09:18:18</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 09:18:09</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 09:10:51</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 May 2012 08:40:54</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 May 2012 08:38:11</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 May 2012 08:30:45</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 May 2012 08:29:03</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 May 2012 08:28:22</string>
+</record>
+<record><string n="v">covus, Build 8504, 26 May 2012 08:28:15</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 May 2012 19:28:34</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 May 2012 10:22:04</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 May 2012 10:21:35</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 May 2012 10:21:19</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 May 2012 10:14:28</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 May 2012 10:13:53</string>
+</record>
+<record><string n="v">covus, Build 8504, 22 May 2012 17:12:54</string>
+</record>
+<record><string n="v">covus, Build 8504, 22 May 2012 17:08:07</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:24:44</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:24:41</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:24:23</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:16:58</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:16:18</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:14:37</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:13:17</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:12:27</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 16:10:50</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 15:58:57</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 15:57:01</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 May 2012 15:36:37</string>
+</record>
+<record><string n="v">covus, Build 8504, 15 Jun 2011 09:19:46</string>
+</record>
+<record><string n="v">covus, Build 8504, 15 Jun 2011 09:19:44</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 May 2011 09:03:15</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 May 2011 09:03:13</string>
+</record>
+<record><string n="v">covus, Build 8504, 07 May 2011 12:56:11</string>
+</record>
+<record><string n="v">covus, Build 8504, 07 May 2011 12:51:27</string>
+</record>
+<record><string n="v">covus, Build 8504, 07 May 2011 08:09:14</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 Apr 2011 11:55:34</string>
+</record>
+<record><string n="v">covus, Build 8504, 30 Sep 2010 10:50:21</string>
+</record>
+<record><string n="v">covus, Build 8504, 30 Sep 2010 10:50:19</string>
+</record>
+<record><string n="v">covus, Build 8504, 30 Sep 2010 10:49:37</string>
+</record>
+<record><string n="v">covus, Build 8504, 30 Sep 2010 10:49:22</string>
+</record>
+<record><string n="v">covus, Build 8504, 10 Jun 2010 10:50:39</string>
+</record>
+<record><string n="v">covus, Build 8504, 10 Jun 2010 09:41:05</string>
+</record>
+<record><string n="v">covus, Build 8504, 01 Jun 2010 16:36:43</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 May 2010 16:02:29</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Mar 2010 14:59:31</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Mar 2010 14:56:18</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 Sep 2009 09:21:30</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 Sep 2009 09:21:28</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 Sep 2009 09:09:05</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 Sep 2009 09:09:03</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Sep 2009 08:15:28</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Sep 2009 08:15:25</string>
+</record>
+<record><string n="v">covus, Build 8504, 22 Sep 2009 14:31:36</string>
+</record>
+<record><string n="v">covus, Build 8504, 22 Sep 2009 14:31:33</string>
+</record>
+<record><string n="v">covus, Build 8504, 03 Sep 2009 13:42:51</string>
+</record>
+<record><string n="v">covus, Build 8504, 02 Sep 2009 16:55:07</string>
+</record>
+<record><string n="v">covus, Build 8504, 02 Sep 2009 13:18:30</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 Aug 2009 09:14:34</string>
+</record>
+<record><string n="v">covus, Build 8504, 25 Aug 2009 09:14:32</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Nov 2008 15:15:20</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Nov 2008 15:15:12</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Nov 2008 15:13:29</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Nov 2008 15:13:29</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 Nov 2008 17:07:07</string>
+</record>
+<record><string n="v">covus, Build 8504, 21 Nov 2008 17:02:19</string>
+</record>
+<record><string n="v">covus, Build 8504, 14 Nov 2008 16:34:56</string>
+</record>
+<record><string n="v">covus, Build 8504, 14 Nov 2008 16:34:53</string>
+</record>
+<record><string n="v">covus, Build 8504, 13 Nov 2008 14:57:02</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 Oct 2008 16:56:25</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 Oct 2008 10:13:45</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 Oct 2008 10:13:18</string>
+</record>
+<record><string n="v">covus, Build 8504, 27 Oct 2008 06:46:07</string>
+</record>
+<record><string n="v">covus, Build 8504, 23 Oct 2008 17:03:19</string>
+</record>
+<record><string n="v">covus, Build 8504, 23 Oct 2008 16:05:27</string>
+</record>
+<record><string n="v">covus, Build 8504, 23 Oct 2008 16:05:24</string>
+</record>
+<record><string n="v">covus, Build 8504, 30 Sep 2008 17:02:43</string>
+</record>
+<record><string n="v">covus, Build 8504, 30 Sep 2008 17:02:38</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 17:18:34</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 17:18:31</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 13:09:59</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 13:00:20</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 12:51:09</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 11:18:46</string>
+</record>
+<record><string n="v">covus, Build 8504, 11 Aug 2008 09:40:39</string>
+</record>
+<record><string n="v">covus, Build 8504, 03 Jul 2008 09:16:25</string>
+</record>
+<record><string n="v">covus, Build 8504, 24 Apr 2008 11:24:02</string>
+</record>
+<record><string n="v">bkirk, Build 8504, 27 Mar 2008 14:29:15</string>
+</record>
+<record><string n="v">bkirk, Build 8504, 17 Mar 2008 09:32:24</string>
+</record>
+<record><string n="v">bclear, Build 8504, 07 Mar 2008 11:01:59</string>
+</record>
+<record><string n="v">bclear, Build 8504, 07 Mar 2008 11:01:00</string>
+</record>
+<record><string n="v">bclear, Build 8504, 06 Mar 2008 08:49:18</string>
+</record>
+<record><string n="v">bclear, Build 8504, 06 Mar 2008 08:48:19</string>
+</record>
+<record><string n="v">bclear, Build 8504, 06 Mar 2008 08:44:25</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 16:15:01</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 16:14:39</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 16:05:46</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 16:05:31</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 10:04:30</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 10:04:12</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 10:00:01</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 09:59:59</string>
+</record>
+<record><string n="v">bclear, Build 8504, 05 Mar 2008 09:59:54</string>
+</record>
+</list>
+<uint n="ObjectCount">42</uint>
+<subrecord n="Tree"><string n="Name">AlertOnReboot</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Definition</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Action</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Definition</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Send Message</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Encoding</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Encoding;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Encoding</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+</list>
+<string n="ScopeTarget">\Definition\Action</string>
+<string n="Scope">Action</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Attachments</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Attachments;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C735A18B-E25B-4FB6-A226-617E5450D861}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Attachment list</string>
+<string n="Package">Mail</string>
+</record>
+<record><string n="Name">Domain</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Domain;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Domain</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+<record><string n="v">SharedResources</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">AlertOnReboot</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Body</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Name</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Name;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value">aABvAHMAdABuAGEAbQBlAA==</bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{7D513E32-35FA-4A20-B9ED-A64364A8A974}</string>
+<subrecord n="Settings"><string n="_Name">Name</string>
+<bool n="LogErrors">True</bool>
+</subrecord>
+<string n="Type">System Information</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Text</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">VGhlIGZvbGxvd2luZyBzZXJ2ZXIgaXMgZnVuY3Rpb25pbmc6DQo=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo">pname=Body;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Subject</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Name</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Name;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F797000-D4F5-11D3-86D3-0050DA5F9D25}</string>
+<string n="Class">{F34788FD-C93E-4FDA-B8AC-04E775811B8E}</string>
+<subrecord n="Settings"><bin64 n="Value">aABvAHMAdABuAGEAbQBlAA==</bin64>
+</subrecord>
+<string n="Type">Unicode Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{7D513E32-35FA-4A20-B9ED-A64364A8A974}</string>
+<subrecord n="Settings"><string n="_Name">Name</string>
+<bool n="LogErrors">True</bool>
+</subrecord>
+<string n="Type">System Information</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Piece2</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">VFJBTlNGT1JNIFNlcnZlciBQcm9jZXNzIGlzIFN0YXJ0ZWQgLSA=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo">pname=Subject;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">From</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Piece1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">From</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+<record><string n="v">SharedResources</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">AlertOnReboot</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo">pname=From;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Bcc</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Bcc;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Cc</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Cc;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">CC</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+</list>
+<string n="ScopeTarget">\Definition\Action</string>
+<string n="Scope">Action</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">To</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=To;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">InternalReviewer</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+</list>
+<string n="ScopeTarget">\Definition\Action</string>
+<string n="Scope">Action</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Server</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Server;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Server</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+<record><string n="v">SharedResources</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">AlertOnReboot</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Server">Server</string>
+<string n="_To">To</string>
+<string n="_Cc">Cc</string>
+<string n="_Bcc">Bcc</string>
+<string n="_From">From</string>
+<string n="_Subject">Subject</string>
+<string n="_Body">Body</string>
+<string n="_Domain">Domain</string>
+<string n="_Attachments">Attachments</string>
+<string n="_Encoding">Encoding</string>
+<bool n="Encryption">True</bool>
+<bool n="HeaderCharset">False</bool>
+<int n="NoAttachAct">0</int>
+</subrecord>
+<string n="Type">Send Mail</string>
+<string n="Package">Mail</string>
+</record>
+<record><string n="Name">Initialize</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">GetCatapultEmail</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">EmailTO</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">InternalReviewer</string>
+</record>
+<record><string n="v">Email Settings</string>
+</record>
+</list>
+<string n="ScopeTarget">\Definition\Action</string>
+<string n="Scope">Action</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">DefaultRecipient</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">VersionID</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">UkVCT09U</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">ReportID</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">VFJBTlNGT1JN</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint n="Path">0</uint>
+</subrecord>
+<string n="Type">Branch Shortcut</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Items</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">DayEnd</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{658C383F-6B0A-42D1-B0E8-4D9693F37B62}</string>
+<subrecord n="Settings"><double n="Value">18</double>
+<subrecord n="DecimalValue"><int n="Low">18</int>
+<int n="Medium">0</int>
+<int n="High">0</int>
+<int n="Scale">0</int>
+</subrecord>
+</subrecord>
+<string n="Type">Number</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">DayBegin</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{658C383F-6B0A-42D1-B0E8-4D9693F37B62}</string>
+<subrecord n="Settings"><double n="Value">7</double>
+<subrecord n="DecimalValue"><int n="Low">7</int>
+<int n="Medium">0</int>
+<int n="High">0</int>
+<int n="Scale">0</int>
+</subrecord>
+</subrecord>
+<string n="Type">Number</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Email Settings</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">InternalReviewer</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">c2hvZXdpbmdAZGpndXNhLmNvbQ==</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Encoding HTML</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Encoding</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">CC</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Day</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Time1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{B463DD95-0103-4D58-B1BB-5FEA93AD5F26}</string>
+<subrecord n="Settings"><ushort n="Setting">0</ushort>
+<uint n="Locale">1033</uint>
+<string n="DaysSince">19961020</string>
+<int n="Format">10</int>
+</subrecord>
+<string n="Type">Time</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Time</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{B463DD95-0103-4D58-B1BB-5FEA93AD5F26}</string>
+<subrecord n="Settings"><ushort n="Setting">0</ushort>
+<uint n="Locale">1033</uint>
+<string n="DaysSince">19961020</string>
+<int n="Format">20</int>
+</subrecord>
+<string n="Type">Time</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Piece1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">MQ==</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8736EF0-A5C9-11D3-868A-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Items">Items</string>
+<string n="_Definition">Definition</string>
+<bool n="HideItems">True</bool>
+</subrecord>
+<string n="Type">Memory</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Action">Action</string>
+<int n="Hour">8</int>
+<int n="Minute">0</int>
+<int n="Interval">320</int>
+<int n="Unit">1</int>
+<int n="RestartHour">0</int>
+<int n="RestartMinute">0</int>
+</subrecord>
+<string n="Type">Scheduler</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Items</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">SharedResources</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint n="Path">1</uint>
+</subrecord>
+<string n="Type">Branch Shortcut</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8736EF0-A5C9-11D3-868A-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Items">Items</string>
+<string n="_Definition">Definition</string>
+<bool n="HideItems">True</bool>
+</subrecord>
+<string n="Type">Memory</string>
+<string n="Package">Core</string>
+</subrecord>
+<list n="Inputs"></list>
+<list n="BranchConfig"></list>
+<list n="RepositoryConfig"></list>
+<list n="Branches"><record><string n="v">System\SharedResources</string>
+</record>
+<record><string n="v">Modules\GetCatapultEmail</string>
+</record>
+</list>
+<list n="Supports"><record><string n="v">{73F1FC54-80AD-11D3-9017-00600872B7FB}</string>
+</record>
+</list>
+</record>
