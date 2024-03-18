@@ -1,0 +1,748 @@
+<record><uint n="CompatibilityOptions">8</uint>
+<string n="UnwantedConversions"></string>
+<subrecord n="Configuration"><subrecord n="WebService"><bool n="IsFolder">False</bool>
+<bool n="IsAsynchronous">True</bool>
+<bool n="Private">False</bool>
+<bool n="NoInteractiveCaching">False</bool>
+<int n="Retries">0</int>
+</subrecord>
+</subrecord>
+<string n="HomeAddress">localproxy</string>
+<string n="ProcessGroup"></string>
+<string n="VirtualDirectory"></string>
+<uint n="LoggingOptions">31</uint>
+<string n="Revision">{6252F3A9-3ADD-47C1-B853-BFBBF21F86A6}</string>
+<string n="AppLicense"></string>
+<list n="Destinations"><record><string n="v">System\report_selector</string>
+</record>
+<record><string n="v">System\UBEMail</string>
+</record>
+<record><string n="v">SOX Reports\APDist</string>
+</record>
+<record><string n="v">SOX Reports\expenses</string>
+</record>
+<record><string n="v">Invoices\CCNINV</string>
+</record>
+<record><string n="v">ShippingDocuments\ShipMan</string>
+</record>
+<record><string n="v">ShippingDocuments\PACKSLIP</string>
+</record>
+<record><string n="v">ShippingDocuments\VICBOL</string>
+</record>
+<record><string n="v">Invoices\DOMCCNINV</string>
+</record>
+<record><string n="v">Invoices\PROFINV</string>
+</record>
+<record><string n="v">ShippingDocuments\MasterVICBOL</string>
+</record>
+<record><string n="v">Transformer\all_reports</string>
+</record>
+<record><string n="v">Canadian Invoice\CCNINV</string>
+</record>
+<record><string n="v">Shipment Manifest\ShipMan</string>
+</record>
+<record><string n="v">Packing Slip\PACKSLIP</string>
+</record>
+<record><string n="v">Purchase Order\DORELPO</string>
+</record>
+<record><string n="v">RawRpts\RawRpts</string>
+</record>
+<record><string n="v">VIC Bill Of Lading\VICBOL</string>
+</record>
+<record><string n="v">Domestic-Canadian Invoice\DOMCCNINV</string>
+</record>
+<record><string n="v">Proforma-Commercial Invoice\PROFINV</string>
+</record>
+<record><string n="v">Master VICSBOL\MasterVICBOL</string>
+</record>
+</list>
+<list n="History"><record><string n="v">covus, Transform Build 42677, 2/1/2018 3:40:47 PM</string>
+</record>
+<record><string n="v">covus, Transform Build 40831, 11/14/2016 4:45:40 PM</string>
+</record>
+<record><string n="v">covus, Build 36641, 03 Oct 2012 08:34:30</string>
+</record>
+<record><string n="v">bclear, Build 3688, 30 Sep 2005 09:03:05</string>
+</record>
+<record><string n="v">bclear, Build 3688, 23 Sep 2005 14:22:48</string>
+</record>
+<record><string n="v">bclear, Build 3688, 22 Sep 2005 14:49:58</string>
+</record>
+<record><string n="v">bclear, Build 3311, 06 Sep 2005 13:05:46</string>
+</record>
+<record><string n="v">bclear, Build 3311, 31 Aug 2005 09:43:50</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Aug 2005 13:27:46</string>
+</record>
+<record><string n="v">bclear, Build 3311, 24 Aug 2005 14:22:23</string>
+</record>
+<record><string n="v">bclear, Build 3311, 08 Aug 2005 08:54:27</string>
+</record>
+<record><string n="v">bclear, Build 3311, 13 Jul 2005 15:06:07</string>
+</record>
+<record><string n="v">bclear, Build 3311, 11 Jul 2005 15:20:55</string>
+</record>
+<record><string n="v">bclear, Build 3311, 11 Jul 2005 14:00:36</string>
+</record>
+<record><string n="v">bclear, Build 3311, 11 Jul 2005 14:00:35</string>
+</record>
+<record><string n="v">bclear, Build 3311, 11 Jul 2005 12:00:31</string>
+</record>
+<record><string n="v">bclear, Build 3311, 06 Jul 2005 15:24:03</string>
+</record>
+<record><string n="v">bclear, Build 3311, 06 Jul 2005 11:15:22</string>
+</record>
+<record><string n="v">bclear, Build 3311, 05 Jul 2005 10:39:28</string>
+</record>
+<record><string n="v">bclear, Build 3311, 05 Jul 2005 10:18:29</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 14:04:33</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 13:53:00</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 13:52:34</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 13:43:15</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 13:32:01</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 13:31:44</string>
+</record>
+<record><string n="v">bclear, Build 3311, 01 Jul 2005 13:23:59</string>
+</record>
+<record><string n="v">bclear, Build 3311, 31 May 2005 10:27:05</string>
+</record>
+<record><string n="v">bclear, Build 3311, 31 May 2005 10:11:23</string>
+</record>
+<record><string n="v">bclear, Build 3311, 31 May 2005 10:07:37</string>
+</record>
+<record><string n="v">bclear, Build 3311, 12 May 2005 15:05:53</string>
+</record>
+<record><string n="v">bclear, Build 3311, 11 May 2005 15:50:37</string>
+</record>
+<record><string n="v">bclear, Build 3311, 10 May 2005 16:39:42</string>
+</record>
+<record><string n="v">bclear, Build 3311, 29 Apr 2005 15:14:42</string>
+</record>
+</list>
+<uint n="ObjectCount">36</uint>
+<subrecord n="Tree"><string n="Name">fileinput</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Definition</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">For Each Job</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Copy Text</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">To</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">JDETEXT</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">fileinput</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">From</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_From">From</string>
+<string n="_To">To</string>
+</subrecord>
+<string n="Type">Copy Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Empty Container</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Container</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9D091C8D-3ADE-46EE-9514-DF0F7246A067}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">JDEContainer</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">fileinput</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{FB2B8128-E88D-11D3-8703-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Cont">Container</string>
+</subrecord>
+<string n="Type">Empty Container</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Report Selector</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">JDEin</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">JDETEXT</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">fileinput</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint n="Path">0</uint>
+</subrecord>
+<string n="Type">Branch Shortcut</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Log Event</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Description</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">First</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">Name</string>
+</record>
+<record><string n="v">ReportProperties</string>
+</record>
+<record><string n="v">JDEOW</string>
+</record>
+<record><string n="v">JDEContainer</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">fileinput</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Piece1</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">UmVwb3J0IHByb2Nlc3NvciBpcyBwcm9jZXNzaW5nIHJlcG9ydCA=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="IgnoreMissingFields">True</bool>
+</subrecord>
+<string n="Type">Sentence</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="Error">False</bool>
+<bool n="Warning">False</bool>
+</subrecord>
+<string n="Type">Log Event</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Action List</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Job Parser</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">OSA/PDF Properties Parser</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Container</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9D091C8D-3ADE-46EE-9514-DF0F7246A067}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">JDEContainer</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">fileinput</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{450B984C-0CF7-47C7-B033-DDA25B738357}</string>
+<subrecord n="Settings"><string n="_Container">Container</string>
+<bool n="EnableScanForwards">False</bool>
+<subrecord n="ScanForwards"><int n="Type">0</int>
+<string n="ChildName">ScanForward</string>
+<list n="ListChildren"></list>
+</subrecord>
+<int n="MaxPagesToSearch">100</int>
+</subrecord>
+<string n="Type">OSA/PDF Properties Parser</string>
+<string n="Package">PeopleSoft</string>
+</record>
+<record><string n="Name">Stream1</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">JDEText</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{5F7DD08C-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><list n="Path"><record><string n="v">JDETEXT</string>
+</record>
+</list>
+<string n="ScopeTarget">\</string>
+<string n="Scope">fileinput</string>
+<uint n="Count">0</uint>
+</subrecord>
+<string n="Type">Container Shortcut</string>
+<string n="Package">Containers</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{89B63522-5CD6-44C6-8B9C-CDCFE71B34B7}</string>
+<subrecord n="Settings"><string n="_AppendTo">JDEText</string>
+</subrecord>
+<string n="Type">Append Stream</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{2DAF3064-80AC-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bool n="FailOver">False</bool>
+</subrecord>
+<string n="Type">Multi Stream</string>
+<string n="Package">Streams</string>
+</record>
+<record><string n="Name">Input Queue</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Directory Path</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=m_cPath;</string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">ZTpcQ292dXNJbnB1dFw=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{F0EF2AA0-3BD2-11D4-87AE-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_m_cPath">Directory Path</string>
+<string n="Extension"></string>
+<int n="m_SortByDate">0</int>
+<int n="m_nPollingInterval">3</int>
+<string n="Path">e:\CovusInput\</string>
+</subrecord>
+<string n="Type">File Queue</string>
+<string n="Package">Files</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Queue">Input Queue</string>
+<string n="_Language">Job Parser</string>
+<string n="_OnJob">For Each Job</string>
+<bool n="DeleteAll">True</bool>
+<bool n="DeleteQP">False</bool>
+<bool n="DeleteInput">False</bool>
+</subrecord>
+<string n="Type">Queue Process</string>
+<string n="Package">Core</string>
+</record>
+<record><string n="Name">Items</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">JDETEXT</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value"></bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">JDEContainer</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{32D47F05-1B57-11D4-8753-0050DA5F9D25}</string>
+<subrecord n="Settings"><uint64 n="MaxUnitSize">10485760</uint64>
+<uint64 n="StartUnitSize">102400</uint64>
+<uint n="OverflowAct">0</uint>
+<bool n="UseMaxSize">False</bool>
+<uint64 n="MaxSize">1048576</uint64>
+<list n="WildPathList"></list>
+<bin64 n="Data2">/w==</bin64>
+</subrecord>
+<string n="Type">Bag</string>
+<string n="Package">Containers</string>
+</record>
+<record><string n="Name">Output Items</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">DefaultErrorPrinter</string>
+<string n="Comment"></string>
+<list n="Objects"><record><string n="Name">Collate</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Collate;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">True</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Color</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Color;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Orientation : Landscape</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=OrientationLandscape;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Flip on short edge</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=DuplexHorizontal;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Duplex</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=Duplex;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{084B2E9E-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{4EB87B20-0B5B-478C-A6E6-E5D67BD194DC}</string>
+<subrecord n="Settings"><bool n="Value">False</bool>
+</subrecord>
+<string n="Type">Yes/No</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Paper Size</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=PaperSize;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">TGV0dGVy</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Paper Source</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=PaperSource;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">QXV0b21hdGljYWxseSBTZWxlY3Q=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Number of copies</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo">pname=NumberCopies;</string>
+<uint n="Flags">4</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{9DD148F4-80AD-11D3-9017-00600872B7FB}</string>
+<string n="Class">{658C383F-6B0A-42D1-B0E8-4D9693F37B62}</string>
+<subrecord n="Settings"><double n="Value">1</double>
+<subrecord n="DecimalValue"><int n="Low">1</int>
+<int n="Medium">0</int>
+<int n="High">0</int>
+<int n="Scale">0</int>
+</subrecord>
+</subrecord>
+<string n="Type">Number</string>
+<string n="Package">Variables</string>
+</record>
+<record><string n="Name">Spool Name</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{DE9B1146-80AB-11D3-9017-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">RlNTcG9vbA==</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Title">Spool Name</string>
+<string n="_NumberCopies">Number of copies</string>
+<string n="_PaperSource">Paper Source</string>
+<string n="_PaperSize">Paper Size</string>
+<string n="_Duplex">Duplex</string>
+<string n="_DuplexHorizontal">Flip on short edge</string>
+<string n="_OrientationLandscape">Orientation : Landscape</string>
+<string n="_Color">Color</string>
+<string n="_Collate">Collate</string>
+<string n="Name">\\hera2\Corner Copier</string>
+<bool n="Remote">False</bool>
+<list n="RemotePrinters"></list>
+<string n="RemoteAddress"></string>
+<bin64 n="DevMode">XFxoZXJhMlxDb3JuZXIgQ29waWVyAAAASKbzAOil8wABBCgEnABwCQPXAQABAAEA
+6gpvCGQAAQAHAFgCAQABAAAABAABAExldHRlcgAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAQAAAAIAAAAAAAAA
+AAAAAAAAAAAAAAAAQ2Fub24AAADgBwAAAAAAAAABAAABAAAAAAYAALQDdgMAAgkE
+7QNDAGEAbgBvAG4AIABpAFIAMgAyADAAMAAtADMAMwAwADAAIABQAEMATAA2AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA/wcAAM0B7AAAAAFkAQMCAQMDBAIFAgZk
+AQECAQMPBBAFBgAHZAEBAgEDDwQQBQYACAMJAQoBCwIMAg0CDgIACmQBAQICAwIE
+AgUCBgIHAggCCWQBAwICAwIEAQAKZAECAgEDAQQBAAALZAEBAgIDAgQCBQIGAgcC
+CAIADA0NZAEDAgIEAgUCBgIHAQAOZAEDAgIDAgQCBQEGBIAHBEAIBEAAD2QBAwII
+IAMIIARkAQcCBwMHBAIFCCAABQoGDgcBABBkAQMCAgMBBAEFAQYBBwEICBIJAgAR
+ZAEBABJkAQggABNkAQICBCIAZWQBZAQDAQECAwMBBQEGAwcBCAIJAgoCCwEMAgAC
+ZAEBAARkAQECAQMBBAEFAwYDBwEIAwkBCgELAQwBDQEOAQ8BEAIRAwAFZAEIIQII
+EAMBBAghAAZkAQMCAQMBBAEFAQYBBwEIAQkBCgYLBgwGDQcOBw8BEAERARIBEwEU
+ARUBFgEXARgBGQEaARsBHAEdAR4BFB8BFCABFCECIgIjASQBAAdkAQECAQAIZAEB
+AgEDAQQDBQhBBgYHBggGCQYKBgsGDAYNBg4IQQ8GAAlkAQICAgMIEAQIEAUCBgMH
+CBAICBAJAgoCAAMDCAAAADgAAAEAAAAAAAAAAQABAG8IAADqCgAAQAAAACoAAAAv
+CAAAwAoAALKbAQABAG8IAADqCgAAQAAAACoAAAAvCAAAwAoAALKbQQ4CAFgCWAIA
+AAEYZAAAAAAAAAABAAAAAAEAMgABAQABAAEAAQAAAAABAQAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAFxTUkdCQ09+MS5JQ00AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAXFNSR0JDT34xLklD
+TQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcU1JH
+QkNPfjEuSUNNAAAAAAAAAgEBAQECAgAAAQAAAAkAAAD//wAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAACSAAAAQwBPAE4ARgBJAEQARQBOAFQASQBBAEwAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEMATwBOAEYASQBEAEUATgBU
+AEkAQQBMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABI
+AAAAAAAAAJABAAAAQQByAGkAYQBsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAgAAAAAAAAAAAAMIBAAAAAAAH
+AAcABwAEAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA
+RABlAGYAYQB1AGwAdAAgAFMAZQB0AHQAaQBuAGcAcwAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAABAAAAAAAAAABAAAABwAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAB
+AAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAACAAIAAgAEAAIAAgACAAIAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAA
+AAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</bin64>
+<bool n="UseTree">False</bool>
+<short n="Orientation">1</short>
+<short n="PaperSize">1</short>
+<short n="Copies">1</short>
+<short n="PrintQuality">600</short>
+<short n="Duplex">1</short>
+<short n="TrueType">4</short>
+<short n="Collate">1</short>
+<short n="PaperSource">7</short>
+<string n="Form">Letter</string>
+<bool n="Wait">False</bool>
+<bool n="AbortOnError">False</bool>
+<bool n="PrinterSettings">False</bool>
+</subrecord>
+<string n="Type">Printer</string>
+<string n="Package">Printing</string>
+</record>
+<record><string n="Name">PDF_FilePath</string>
+<string n="Comment"></string>
+<list n="Objects"></list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><bin64 n="Value">ZTpcQ292dXNfU2F2ZWRfSW5wdXRfRGF0YVw=</bin64>
+</subrecord>
+<string n="Type">Text</string>
+<string n="Package">Variables</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{00000000-0000-0000-C000-000000000046}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{C8736EF0-A5C9-11D3-868A-0050DA5F9D25}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"></subrecord>
+<string n="Type">Folder</string>
+<string n="Package">Core</string>
+</record>
+</list>
+<string n="TypeInfo"></string>
+<uint n="Flags">0</uint>
+<byte n="Bookmark">0</byte>
+<string n="Category">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+<string n="Class">{CB6CD310-3BC7-11D4-87AE-0050DA5F9D25}</string>
+<subrecord n="Settings"><string n="_Items">Items</string>
+<string n="_Definition">Definition</string>
+<bool n="HideItems">True</bool>
+</subrecord>
+<string n="Type">Memory</string>
+<string n="Package">Core</string>
+</subrecord>
+<list n="Inputs"></list>
+<list n="BranchConfig"></list>
+<list n="RepositoryConfig"></list>
+<list n="Branches"><record><string n="v">System\report_selector</string>
+</record>
+</list>
+<list n="Supports"><record><string n="v">{85C6516F-7D87-11D3-9016-00600872B7FB}</string>
+</record>
+</list>
+</record>
